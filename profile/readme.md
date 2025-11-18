@@ -23,11 +23,38 @@ By the end of this course, students should be able to:
 9. Explain proofs related to algorithm correctness and write a simple proof using loop invariants.
 
 ## Course Topics
+* Basic C Syntax including:
+    * Struts, Pointers, Memory Management
+* Memory, Stack and Heap
+* From Code to Executable (compilers, assembly)
+* Foundation for Comparing Algorithms
+    * Asymptotic Notation
+    * RAM model of computing
+    * Psuedo Code Notation
+* Quadriatic Sorting Algorithms
+    * Bubble, Selection, Insertion Sorts
+* Divide and Conquer Sorts
+    * Merge and Quick Sort
+    * Recurence Tree Proofs
+    * Subsitution Method
+    * Master Theorem
+* Dynamic Programming
+* Sequential Data Structures
+    * Vectors, LinkedLists, Stacks, Queues
+* Sorted Structures
+    * Priority Queues, Trees, Tree Traversal, BST, Heaps
+* Graphs
+    * Adjacency Matrix, Adjacency List, Traversing Graphs with BFS, DFS
+* Greedy Algorithms
+    * Scheduling Problem, Dijkstra's Shortest Path
+* Hash Tables
+    * hashing data / functions
+    * Hash table chaining
+* Proving Correctness
+    * Induction Proofs, Loop Invarients
 
 
 
-## Maintained By
-(TODO - add this info)
 
 ## Copyright 
 Different resources are created by different authors. Public resources may fall under CC BY 4.0, but please check the license for each repo. We also ask that you share with us if you are using these resources for your own class!
